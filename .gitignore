@@ -1,0 +1,9 @@
+﻿Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+.vs/
+.idea/
+__pycache__/
